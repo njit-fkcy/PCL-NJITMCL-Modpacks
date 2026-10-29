@@ -2,7 +2,7 @@
 
 NJIT MCL 社团 **整合包** 与 **服务器存档** 发行仓库。
 
-> 启动器（PCL 定制版）在 [PCL-NJITMCL](https://github.com/xwan5840/PCL-NJITMCL)。
+> 启动器（PCL 定制版）在 [PCL-NJITMCL](https://github.com/njit-fkcy/PCL-NJITMCL)。
 
 ## 一眼看懂
 
